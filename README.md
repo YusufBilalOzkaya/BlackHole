@@ -21,14 +21,14 @@
       <img src="eb1310b8-72bf-4f82-89e1-b4b735bf2169.jpg" width="250">
     </td>
   </tr>
-  <tr>
+  <tr>fc50ff4a-16c6-48ff-8112-ab48150ffff2.jpg
     <td align="center">
-      <strong>Çoklu Silme</strong><br>
-      <img src="fc50f4a-16c6-48ff-8112-ab48150fff2.jpg" width="400">
+      <strong>sürükle bırak</strong><br>
+      <img src="c3fa1309-2d09-462d-bea4-92ee93b81b04.png" width="400">
     </td>
     <td align="center">
-      <strong>Yeni Özellik (Adı)</strong><br> 
-      <img src="c3fa1309-2d09-462d-bea4-92ee93b81b04.png" width="400"> 
+      <strong>coklu silme</strong><br> 
+      <img src="fc50ff4a-16c6-48ff-8112-ab48150ffff2.jpg" width="400"> 
     </td>
   </tr>
 </table>
