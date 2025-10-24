@@ -24,7 +24,7 @@
   <tr>
     <td align="center">
       <strong>Çoklu Silme</strong><br>
-      <img src="fc50f4a-16c6-48ff-8112-ab48150fff2.jpg" width="400">
+      <img src="fc50ff4a-16c6-48ff-8112-ab48150ffff2.jpg" width="400">
     </td>
     <td align="center">
       </td>
