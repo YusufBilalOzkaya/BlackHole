@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>Uygulama İkonu</strong><br>
+      <strong>İkon</strong><br>
       <img src="app.png" width="250">
     </td>
     <td align="center">
@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td align="center">
-      <strong>Çoklu Gönderme (Siyah Mod)</strong><br>
+      <strong>Çoklu Gönderim</strong><br>
       <img src="439497ac-3633-470b-ae7e-f8e1ea7f0647.jpg" width="400">
     </td>
     <td align="center">
