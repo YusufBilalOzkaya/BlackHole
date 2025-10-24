@@ -22,6 +22,10 @@
     </td>
   </tr>
   <tr>
+        <td align="center">
+      <strong>Çoklu Silme</strong><br>
+      <img c3fa1309-2d09-462d-bea4-92ee93b81b04.png" width="400">
+    </td>
     <td align="center">
       <strong>Çoklu Silme</strong><br>
       <img src="fc50ff4a-16c6-48ff-8112-ab48150ffff2.jpg" width="400">
