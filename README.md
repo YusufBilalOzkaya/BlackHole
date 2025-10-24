@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <strong>İkon</strong><br>
+      <strong>Uygulama İkonu</strong><br>
       <img src="app.png" width="250">
     </td>
     <td align="center">
@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td align="center">
-      <strong>Çoklu Gönderim</strong><br>
+      <strong>Çoklu Gönderme</strong><br>
       <img src="439497ac-3633-470b-ae7e-f8e1ea7f0647.jpg" width="400">
     </td>
     <td align="center">
@@ -21,9 +21,12 @@
       <img src="eb1310b8-72bf-4f82-89e1-b4b735bf2169.jpg" width="250">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <strong>Çoklu Silme</strong><br>
+      <img src="fc50f4a-16c6-48ff-8112-ab48150fff2.jpg" width="400">
+    </td>
+    <td align="center">
+      </td>
+  </tr>
 </table>
-
-<p align="center">
-  <strong>Çoklu Silme</strong><br>
-  <img src="fc50ff4a-16c6-48ff-8112-ab48150ffff2.jpg" width="400">
-</p>
